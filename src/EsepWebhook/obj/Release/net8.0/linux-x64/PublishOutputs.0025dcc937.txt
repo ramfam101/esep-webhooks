@@ -1,0 +1,6 @@
+C:\Users\jrmun\OneDrive\UF Work 24 Fall\ESWE\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.deps.json
+C:\Users\jrmun\OneDrive\UF Work 24 Fall\ESWE\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.runtimeconfig.json
+C:\Users\jrmun\OneDrive\UF Work 24 Fall\ESWE\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.pdb
+C:\Users\jrmun\OneDrive\UF Work 24 Fall\ESWE\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\jrmun\OneDrive\UF Work 24 Fall\ESWE\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\jrmun\OneDrive\UF Work 24 Fall\ESWE\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\publish\EsepWebhook.dll
